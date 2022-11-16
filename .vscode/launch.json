@@ -16,8 +16,16 @@
 		{
 			"args": [],
 			"label": "u_Estrutura"
+		},
+		{
+			"args": [],
+			"label": "u_Variaveis"
+		},
+		{
+			"args": [],
+			"label": "u_xVariave"
 		}
 	],
-	"lastProgramExecuted": "u_Estrutura",
+	"lastProgramExecuted": "u_xVariave",
 	"lastProgramArgumens": []
 }
