@@ -24,8 +24,17 @@
 		{
 			"args": [],
 			"label": "u_xVariave"
+		},
+		{
+			"args": [],
+			"label": "u_Soma"
+		},
+		{
+			"label": "u_ParDois"
+		},
+		{
+			"label": "u_RptWhile"
 		}
 	],
-	"lastProgramExecuted": "u_xVariave",
-	"lastProgramArgumens": []
+	"lastProgramExecuted": "u_RptWhile"
 }
